@@ -65,6 +65,6 @@ if __name__ == '__main__':
                     'src/iou3d_nms.cpp',
                     'src/iou3d_nms_kernel.cu',
                 ]
-
+            ),
         ],
     )
